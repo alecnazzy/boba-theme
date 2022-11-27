@@ -3,6 +3,7 @@
 This theme is inspired by boba(bubble) tea. I chose boba because of it's many different
 pastel colors that are easy on the eyes. 
 
+You can download this theme on vscode or here https://marketplace.visualstudio.com/items?itemName=alecnazzy.boba-theme
 
 Enjoy!
 
