@@ -1,9 +1,9 @@
 {
 	"name": "Boba theme",
 	"colors": {
-		"editor.background": "#45423f",
+		"editor.background": "#4b4947",
 		"editor.foreground": "#ebe0e0",
-		"activityBarBadge.background": "#2b99e2",
+		"activityBarBadge.background": "#02c39a",
 		"sideBarTitle.foreground": "#f2ebeb"
 	},
 	"tokenColors": [
@@ -44,7 +44,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#c76f95"
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#a6a6f3"
+				"foreground": "#7a7af4"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ebb9cb"
+				"foreground": "#f18db2"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#fbd4d6"
+				"foreground": "#f9c4c7"
 			}
 		},
 		{
@@ -149,7 +149,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f4f9bb"
+				"foreground": "#f0f3bd"
 			}
 		},
 		{
@@ -238,7 +238,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#b2f2bf"
+				"foreground": "#02c39a"
 			}
 		},
 		{
