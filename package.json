@@ -4,7 +4,7 @@
 	"description": "Theme inspired by pastel colors of boba tea",
 	"icon": "boba-icon128.png",
 	"publisher": "alecnazzy",
-	"version": "0.4.0",
+	"version": "0.5.0",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
