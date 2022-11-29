@@ -3,7 +3,7 @@
 	"displayName": "Boba theme",
 	"description": "Theme inspired by pastel colors of boba tea",
 	"publisher": "alecnazzy",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
