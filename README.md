@@ -2,6 +2,8 @@
 
 A little theme I cooked up, inspired by the pastel colors common with boba(bubble) tea that are easier for the eyes to digest.
 
+Find it [here](https://marketplace.visualstudio.com/items?itemName=alecnazzy.boba-theme) or on VSCode.
+
 Enjoy!
 
 ### Sample images:
